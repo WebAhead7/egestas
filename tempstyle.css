@@ -1,0 +1,35 @@
+.homepagecontainerimg {
+    position: relative;
+    font-family: Arial;
+    height: 500px;
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    
+    
+  }
+  
+  .homepageimg{
+    height: 100%;
+    width: 100%;
+  }
+  .homepage-text-block-in-image {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .row {
+    content: "";
+    width:100%; 
+    height:500px;
+    float: center;
+    display: table;
+    clear: both;
+  }
+  
