@@ -70,7 +70,7 @@ body {
 
 .container .navbar ul li a {
     text-decoration: none;
-    color: #999999;
+    color: ffffff;
     font-size: 14px;
     text-transform: uppercase;
     display: block;
@@ -81,6 +81,7 @@ body {
 }
 
 .container .navbar ul li a:hover {
+    font-weight: bold;
     color: #ffffff;
     background-color: rgba(23, 23, 23, 0.9);
 }
