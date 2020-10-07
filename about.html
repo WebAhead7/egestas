@@ -6,20 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
     <link href="tempstyle.css" rel="stylesheet" />
+    <link href="nav.css" rel="stylesheet" />
 </head>
 
 <body>
-    <div class="bg-div">
-        <a href="index.html"><img class="logo-img" src="logo.jpg" width="130" height="130" ALT="align box"
-                ALIGN=CENTER></a>
-        <div>
-            <ul>
-                <li style="float:right"><a class="active" href="#contact"><a href="contact.html">Contact Us</a></li>
-                <li style="float:right"><a class="active" href="#about"><a href="about.html">About Us</a></li>
-                <li style="float:right"><a class="active" href="#home"><a href="index.html">Home</a></li>
+    <!-- start of navigation section  -->
+    <div class="container">
+        <div class="logo">
+            <a href="index.html"><img src="logo.jpg" alt="logo"></a>
+        </div>
+        <div class="navbar">
+
+            <div class="icon-bar" onclick="Show()">
+                <i></i>
+                <i></i>
+                <i></i>
+            </div>
+
+            <ul id="nav-lists">
+                <li class="close"><span onclick="Hide()">×</span></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
             </ul>
+
         </div>
     </div>
+
+    <script>
+        var navList = document.getElementById("nav-lists");
+        function Show() {
+            navList.classList.add("_Menus-show");
+        }
+
+        function Hide() {
+            navList.classList.remove("_Menus-show");
+        }
+    </script>
+    <!-- end of navigation section  -->
 
     <div class="bdiv">
 
