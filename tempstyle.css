@@ -1,4 +1,6 @@
 .homepagecontainerimg {
+  /* The position property specifies the type of positioning method used 
+  for an element (static, relative, absolute, fixed, or sticky). */
     position: relative;
     font-family: Arial;
     height: 500px;
