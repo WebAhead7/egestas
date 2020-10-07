@@ -1,31 +1,52 @@
 /* home page css  */
 
 body {
-  margin: 0px;
-  padding: 0px;
+  /* margin: 0px;
+  padding: 0px; */
   color: #ccdadc;
   font-family: Tahoma, Geneva, sans-serif;
-  font-size: 13px;
-  line-height: 1.5em;
-  background-color: #082a2e;
-  background-image: url(background.jpg);
-  background-repeat: repeat-x;
-  background-position: top;
+  /* font-size: 13px; */
+  /* line-height: 1.5em; */
+  background-color: rgb(16, 96, 110);
+  /* background-repeat: repeat-x; */
+  /* background-position: top; */
 }
+
+/* home page css  */
 
 /* container of the image parent div */
 
 .homepagecontainerimg {
-  /* The position property specifies the type of positioning method used 
-  for an element (static, relative, absolute, fixed, or sticky). */
   position: relative;
   font-family: Arial;
-  height: 500px;
   float: left;
-  width: 30%;
   margin-right: 10px;
   margin-left: 10px;
   padding: 10px;
+}
+
+/* our value container */
+
+.ourvalueconatiner {
+  float: center;
+  width: 200px;
+  height: 200px;
+}
+
+.text-in-value {
+  position: center;
+  float: center;
+  text-align: center;
+  color: black;
+}
+
+/*  circle image */
+
+.circleimage {
+  position: center;
+  float: center;
+  width: 100px;
+  height: 100px;
 }
 
 /* the image in home page the three main images */
@@ -33,8 +54,8 @@ body {
 .homepageimg {
   border-radius: 25px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  height: 100%;
-  width: 100%;
+  height: 500px;
+  width: 500px;
 }
 
 /* the tet inside the images  */
@@ -53,14 +74,67 @@ body {
 
 .row {
   content: "";
-  width: 100%;
-  height: 500px;
   float: center;
-  display: table;
+  display: flex;
   clear: both;
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 /* end css Home page  index.html */
+
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4CAF50;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(170, 56, 56);
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+}
+
+.logo-img {
+  float: left;
+  position: relative;
+  margin: 10px 15px 15px 10px;
+}
+
+.bg-div {
+  background: #4CAF50;
+  overflow: hidden;
+}
+
+.bg-div img {
+  height: 130px;
+  width: 130px;
+} */
 
 .container1 {
   display: flex;
@@ -81,13 +155,12 @@ body {
   width: 400px;
 }
 
-/* img {
+img {
   display: block;
-  width: 80vw;
   height: auto;
   margin-left: auto;
   margin-right: auto;
-} */
+}
 
 .alert {
   padding: 20px;
