@@ -7,9 +7,8 @@
   <img src="https://github.com/WebAhead7/egestas/blob/main/logo.jpg" />
 </p>
 <p align="center">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Best website EVER</h3>
   <p align="center">
-    An awesome README template to for our project!
     <br />
     <a href="https://webahead7.github.io/egestas/"><strong>Check our website »</strong></a>
     <br />
@@ -31,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://webahead7.github.io/egestas/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/WebAhead7/egestas/blob/main/logo.jpg/)
 
 We built a website that let people enjoy a Luxurious Lifestyle in anyway they like. From renting fancy cars and jets, to super yachts charter vacations and VP protection services. check out the link above for our awesome site.
 
