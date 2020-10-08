@@ -4,14 +4,12 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/WebAhead7/egestas/blob/main/logo.jpg" />
+  <img src="https://github.com/WebAhead7/egestas/blob/main/logo.jpg" width="150" height="150"/>
 </p>
 <p align="center">
   <h3 align="center">Best website EVER</h3>
   <p align="center">
-    <br />
     <a href="https://webahead7.github.io/egestas/"><strong>Check our website »</strong></a>
-    <br />
   </p>
 </p>
 
@@ -29,8 +27,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/WebAhead7/egestas/blob/main/logo.jpg/)
+<p align="center">
+  <img src="https://github.com/WebAhead7/egestas/blob/main/screenshot.PNG" width="500" height="500" />
+</p>
 
 We built a website that let people enjoy a Luxurious Lifestyle in anyway they like. From renting fancy cars and jets, to super yachts charter vacations and VP protection services. check out the link above for our awesome site.
 
