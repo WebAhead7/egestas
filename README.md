@@ -3,8 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<!--     <img src="logo." alt="Logo.jpg" width="80" height="80"> -->
-   ![alt text](https://github.com/WebAhead7/egestas/blob/main/logo.jpg)
+![html5 logo](https://user-images.githubusercontent.com/22002193/69446950-26f68b00-0d5e-11ea-96dd-eb217f407b56.jpg)
   <h3 align="center">Best-README-Template</h3>
   <p align="center">
     An awesome README template to for our project!
