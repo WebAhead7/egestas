@@ -2,8 +2,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
-![html5 logo](https://user-images.githubusercontent.com/22002193/69446950-26f68b00-0d5e-11ea-96dd-eb217f407b56.jpg)
+  <img src="https://github.com/WebAhead7/egestas/blob/main/logo.jpg" />
+</p>
+<p align="center">
   <h3 align="center">Best-README-Template</h3>
   <p align="center">
     An awesome README template to for our project!
