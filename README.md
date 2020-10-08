@@ -53,7 +53,7 @@ See the [open issues](https://github.com/WebAhead7/egestas/issues) for a list of
 <!-- CONTACT -->
 ## Contact
 
-* Mr. Khazen - [@GitHub](https://github.com/jiries-khazen)
+* Mr. Khazen: [@GitHub](https://github.com/jiries-khazen)
 * Ms. Abd-ullatif:  [@GitHub](https://twitter.com/your_username)
 * Mr. Azzam:  [@GitHub](https://github.com/nuwrss)
 * Mr. Majadly:  [@GitHub](https://github.com/mjmajadly)
